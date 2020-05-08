@@ -1,0 +1,146 @@
+  .intro{
+    font-size: 20px;
+    color: indigo;
+    text-align: justify;
+    margin: 10px 10px 10px 10px;
+    padding: 20px;
+}
+.col{
+    background-color: lightgrey;
+    text-align: center;
+    flex-direction: row;
+}
+.sp1{
+    text-align: center;
+    color: green;
+}
+.sp2{
+    text-align: center;
+    color: blue;
+}
+.line{
+    color: chartreuse;
+}
+.services{
+     width: auto;
+    height: auto; 
+    background-color: mediumblue;
+    padding: 30px 
+}
+.dastr{
+   width: 260px;
+   height: 260px;
+    /* background-color: lawngreen;  */
+    text-align: center; 
+    display: inline-block;
+     /* margin: 15px 20px 15px 20px; 
+    padding: 15px; */
+}
+.family{
+    width: 260px;
+    height: 260px;
+     /* background-color: lawngreen;  */
+    text-align: center;
+     display: inline-block;
+      /* margin: 15px 20px 15px 20px;
+     padding: 15px; */
+    } 
+.medical{
+   width: 260px;
+   height: 260px;
+    /* background-color: lawngreen;  */
+    text-align: center; 
+    display: inline-block;
+     /* margin: 15px 20px 15px 20px; 
+    padding: 15px; */
+}
+.education{
+    width: 260px;
+    height: 260px;
+    text-align: center;
+     display: inline-block;
+      /* margin: 15px 20px 15px 20px;  */
+     /* padding: 15px;  */
+    }  
+    body{
+        background-color: lawngreen;
+    }
+.sadaqah{
+     background-color: rgb(231, 241, 240); 
+     width: 300px;
+     height: 250px;
+     text-align: center;
+     display: inline-block;
+}
+.welfare{
+    background-color: rgb(231, 241, 240); 
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+}
+.medi{
+    background-color: rgb(231, 241, 240); 
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+}
+.dastarkhan{
+    background-color: rgb(231, 241, 240); 
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+}
+.ro{
+    background-color: rgb(231, 241, 240); 
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+}
+.edu{
+    background-color: rgb(231, 241, 240); 
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+}
+.ed{
+    position: absolute;
+    top: 1400px;
+    left: 830px;
+}
+.md{
+    position: absolute;
+    top: 1150px;
+    left: 800px;
+}
+.plant{
+     position: absolute;
+    top: 1400px;
+    left: 500px;
+}
+.wl{
+    position: absolute;
+   top: 1200px;
+   left: 530px;
+}
+.ds{
+    position: absolute;
+    top: 1400px;
+    left: 230px;
+}
+.head{
+     text-align: center; 
+    color: white;
+}
+.header{
+    background-color: blue;
+}
+.button{
+    border: 2px solid green;
+    color: green;
+}
+
